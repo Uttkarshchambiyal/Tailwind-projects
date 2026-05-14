@@ -128,4 +128,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Uttkarshchambiyal.Tailwind-projects&left_color=6366f1&right_color=38bdf8)
 
 </div>
-
